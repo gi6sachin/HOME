@@ -1,0 +1,31 @@
+body
+{
+	background: white;
+	color: black;
+	margin: 20%;
+	border: solid black 5%;	
+} /* body */
+
+h2
+{
+	font-family: monospace;
+	color: black;
+	background: black;
+} /* h2 */
+
+body 
+{
+    background-image: url("backimage.jpg");
+} /* body */
+
+a
+{
+	color: black;
+	padding: 0 10px 0 10px;
+	border-radius: 15px;
+} /* a */
+
+a:hover
+{
+	background-color: #2196f3;
+} /* a.hover */
