@@ -1,7 +1,7 @@
 body
 {
 	background: white;
-	color: black;
+	color: red;
 	margin: 20%;
 	border: solid black 5%;	
 } /* body */
@@ -9,8 +9,8 @@ body
 h2
 {
 	font-family: monospace;
-	color: black;
-	background: black;
+	color: red;
+	background: red;
 } /* h2 */
 
 body 
@@ -20,7 +20,7 @@ body
 
 a
 {
-	color: black;
+	color: red;
 	padding: 0 10px 0 10px;
 	border-radius: 15px;
 } /* a */
