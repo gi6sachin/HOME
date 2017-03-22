@@ -1,6 +1,6 @@
 body
 {
-	background: black;
+	background: white;
 	color: black;
 	margin: 20%;
 	border: solid black 5%;	
@@ -13,8 +13,7 @@ h2
 	background: black;
 } /* h2 */
 
-body 
-{
+body {
     background-image: url("backimage.jpg");
 } /* body */
 
